@@ -1,0 +1,33 @@
+body{
+    font-family: 微軟正黑體;
+}
+
+h1{
+    font-size: 250%;
+}
+
+h2{
+    border-left: 4px solid red;
+    border-bottom: 4px solid red;
+}
+
+.title{
+    color: blue;
+}
+
+a{
+    color: red;
+}
+
+.descript{
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.delete{
+    text-decoration: line-through;
+}
+
+.logo{
+    border: 4px solid gray;
+}
